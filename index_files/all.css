@@ -310,11 +310,13 @@ input[type=submit]:hover{cursor:pointer;}
 	text-align:center;
 	font:18px/24px Arial, Helvetica, sans-serif;
 	color:#a4a4a4;
+	padding-bottom:15px;
 }
 .box.problems dl dt{
 	font-weight:bold;
 	font-size:24px;
 	color:#333;
+	padding: 10px 0;
 }
 .box.problems dl dd{margin:1px 0 41px;}
 .box.solutions{
